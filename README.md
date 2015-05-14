@@ -1,0 +1,1 @@
+Cloud code project for 微杂志V1.2测试. Cloud Code Guide: https://cn.avoscloud.com/docs/cloud_code_guide.html
