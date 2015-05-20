@@ -1,7 +1,7 @@
 // Use AV.Cloud.define to define as many cloud functions as you want.
 // For example: 20150514
 var data_obj = AV.Object.extend("pages_data");
-
+var arr = [1, 2, 3];
 AV.Cloud.define("hello", function(request, response) {
   response.success("Hello world!");
 });
