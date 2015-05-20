@@ -3,7 +3,6 @@
 var data_obj = AV.Object.extend("pages_data");
 var arr = [1, 2, 3];
 var testme = [];
-var abc;
 AV.Cloud.define("hello", function(request, response) {
   response.success("Hello world!");
 });
