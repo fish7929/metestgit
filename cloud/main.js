@@ -2,6 +2,7 @@
 // For example: 20150514
 var data_obj = AV.Object.extend("pages_data");
 var arr = [1, 2, 3];
+var testme = [];
 AV.Cloud.define("hello", function(request, response) {
   response.success("Hello world!");
 });
